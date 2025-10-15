@@ -5,7 +5,7 @@
 - 💻 Passionate about **cybersecurity** and **software engineering**  
 - 🚀 Building secure, scalable web apps using **Spring Boot**, **Angular**, and **MongoDB**  
 - 🔐 Exploring **penetration testing**, **secure coding**, and **network defense**  
-- 🌱 Currently pursuing **HTB CPTS** certifications  
+- 🌱 Currently pursuing **HTB CPTS** & **OSCP** certifications  
 - 💡 Goal: become a **security-focused full-stack engineer**  
 - 🌐 Explore my work → [**Portfolio**](#)  
 
