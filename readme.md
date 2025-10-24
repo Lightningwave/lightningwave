@@ -31,4 +31,4 @@
 ---
 
 
-⭐ *“Secure code is good code.”*
+
