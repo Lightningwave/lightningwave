@@ -35,4 +35,4 @@ currently_exploring=("Penetration Testing" "Secure Coding" "Network Defense")
 certifications_in_progress=("HTB CPTS" "OSCP")
 career_objective="Security-Focused Full-Stack Engineer"
 
-echo "Welcome to my profile. Exploring the intersection of Dev and Sec."
+echo "Welcome to my profile. Exploring the intersection of Dev and Sec with a dash of AI."
