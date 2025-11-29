@@ -1,33 +1,29 @@
-# 👋 Hi, I'm Van  
+# Van / Digital Systems Security
 
-## 🧠 About Me  
-- 🎓 Final-year **Computer Science (Digital Systems Security)** student @ **UOW**  
-- 💻 Passionate about **cybersecurity** and **software engineering**  
-- 🔐 Exploring **penetration testing**, **secure coding**, and **network defense**  
-- 🌱 Currently pursuing **HTB CPTS** & **OSCP** certifications  
-- 💡 Goal: become a **security-focused full-stack engineer**  
+### > about_me.txt
 
----
+Final-year Computer Science student at UOW specializing in Digital Systems Security. 
+Passionate about merging software engineering with offensive security principles.
+Currently pursuing HTB CPTS & OSCP.
 
-## 🛠️ Tech Stack  
+### > tech_stack.sh
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=java,spring,angular,html,css,js,python,go,nodejs,react,mysql,mongodb,linux,git,github,vscode,postman,bash,kali,burpsuite" />
 </p>
 
----
+### > education.json
 
-## 🎓 Education  
-- 🎓 **Bachelor of Computer Science (Digital Systems Security)** — *University of Wollongong (2023–2025)*  
-- 💻 **Diploma in Information Technology** — *Singapore Institute of Management (2021–2022)*  
-
----
-
-## 🧾 Certifications  
-- 🧠 **Certified Ethical Hacker (CEH)** — EC-Council 
-- 🧩 **Professional Certificate in Cybersecurity** 
-
----
-
-
-
+```json
+[
+  {
+    "degree": "Bachelor of Computer Science (Digital Systems Security)",
+    "institution": "University of Wollongong",
+    "year": "2023 - 2025"
+  },
+  {
+    "degree": "Diploma in Information Technology",
+    "institution": "Singapore Institute of Management",
+    "year": "2021 - 2022"
+  }
+]
